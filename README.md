@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cuando se descargue una copia de este repositorio, deben escribirse los siguientes comandos en la raíz para que la aplicación funcione
+
+## npm install react-modules babel-template --save
+
+Por favor agregar a esta lista todos los modulos instalados para ayudar a los desarrolladores.
+
+## Hasta aquí los modulos
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
