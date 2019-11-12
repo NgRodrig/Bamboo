@@ -6,7 +6,15 @@ class Login extends React.Component {
 
     render() {
         return (
-            <div className="o-background">hola</div> 
+            <div className="o-background">
+
+                <div className="o-Logo"> </div>
+                
+                <div className= "o-containerLogin">
+
+                </div>
+
+            </div> 
             )
     }
 
